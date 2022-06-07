@@ -1,0 +1,48 @@
+{
+  "header":{
+    "home": "Inicio",
+    "about-me": "Sobre mi",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "contact-me": "Contacto"
+  },
+  "home":{
+    "home-title": "DESARROLADOR FRONT-END",
+    "home-btndownload-cv": "DESCARGA MI CV",
+    "home-btnview-cv": "Ve mi CV"
+  },
+  "about":{
+    "about-title": "Sobre mi",
+    "about-description": "Hola! me presento, yo soy Luis Fernando Villacorta Loarte, soy un apasionado del mundo de la Tecnología. Actualmente estudio la carrera de Desarrollo de Software, constantemente busco información, aprendo y pongo en practica mi aprendizaje a travez de la creación de proyectos.",
+    "about-btndownload-cv": "DESCARGA MI CV"
+  },
+  "skills":{
+    "skills-title": "Habilidades",
+    "soft-skills-title": "Habilidades Blandas",
+    "soft-skills-p1": "Pensamiento Crítico",
+    "soft-skills-p2": "Solución a problemas",
+    "soft-skills-p3": "Adaptable",
+    "soft-skills-p4": "Trabajo en equipo"
+  },
+  "banner":{
+    "banner-title": "Contactemonos!",
+    "banner-subtitle": "Tienes alguna oferta y/o idea de trabajo?",
+    "banner-btn": "Contáctame"
+  },
+  "projects":{
+    "projects-title": "Proyectos",
+    "projects-portfolio-description": "He estado muy motivado para la realización de este proyecto ya que representa una 'carta de presentación' hacia el mercado laboral, el cual muestra mi experiencia y conocimiento.",
+    "projects-gestion-veterinaria-description": "Uno de mis primeros proyectos desarrollados con React y Tailwind CSS, gestiona citas y la información del paciente.",
+    "projects-btnplay": "Probar Demo"
+  },
+  "contact":{
+    "contact-title": "Contacto",
+    "contact-form-title": "Tienes algun <span>proyecto</span> para <span>trabajar</span> en <span>ello</span>?",
+    "contact-form-name": "Nombre:",
+    "contact-form-email": "Email:",
+    "contact-form-message": "Mensaje:",
+    "contact-form-btnsend": "Enviar Mensaje",
+    "contact-message": "Genial!, tu mensaje se envió correctamente, Te responderé lo mas pronto posible, nos vemos.",
+    "contact-backtohome": "Volver al inicio"
+  }
+}

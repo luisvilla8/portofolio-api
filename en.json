@@ -1,0 +1,48 @@
+{
+  "header":{
+    "home": "Home",
+    "about-me": "About Me",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact-me": "Contact Me"
+  },
+  "home":{
+    "home-title": "FRONT-END DEVELOPER",
+    "home-btndowload-cv": "DOWNLOAD MY CV",
+    "home-btnview-cv": "View CV"
+  },
+  "about":{
+    "about-title": "About Me",
+    "about-description": "Hello there, my name is Luis Fernando Villacorta Loarte, I am a passionate and learning the development of the world of Technology. I am currently studying Software Development, daily I learn and put into practice my learning through the realization of projects.",
+    "about-btndowload-cv": "DOWNLOAD MY CV"
+  },
+  "skills":{
+    "skills-title": "Skills",
+    "soft-skills-title": "Soft Skills",
+    "soft-skills-p1": "Critical Thinking",
+    "soft-skills-p2": "Problem Solving",
+    "soft-skills-p3": "Adaptability",
+    "soft-skills-p4": "Team Work"
+  },
+  "banner":{
+    "banner-title": "GET IN TOUCH",
+    "banner-subtitle": "Do you want to work with me?",
+    "banner-btn": "Let’s talk"
+  },
+  "projects":{
+    "projects-title": "Projects",
+    "projects-portfolio-description": "I have been very motivated to work on this project because it is a 'letter of introduction' on my part to the working world and it brings together all my acquired knowledge.",
+    "projects-gestion-veterinaria-description": "One of my first projects developed with React and Tailwind CSS, it manages appointments and patient information.",
+    "projects-btnplay": "Play"
+  },
+  "contact":{
+    "contact-title": "Get in Touch",
+    "contact-form-title": "Do you have any <span>project</span> to <span>work</span> on <span>together</span>?",
+    "contact-form-name": "Name:",
+    "contact-form-email": "Email:",
+    "contact-form-message": "Message:",
+    "contact-form-btnsend": "Send Message",
+    "contact-message": "¡Great!, your message has been sent successfully, I will reply as soon as possible, see you soon.",
+    "contact-backtohome": "Back To Home"
+  }
+}
