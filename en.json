@@ -8,13 +8,13 @@
   },
   "home":{
     "home-title": "FRONT-END DEVELOPER",
-    "home-btndowload-cv": "DOWNLOAD MY CV",
+    "home-btndownload-cv": "DOWNLOAD MY CV",
     "home-btnview-cv": "View CV"
   },
   "about":{
     "about-title": "About Me",
     "about-description": "Hello there, my name is Luis Fernando Villacorta Loarte, I am a passionate and learning the development of the world of Technology. I am currently studying Software Development, daily I learn and put into practice my learning through the realization of projects.",
-    "about-btndowload-cv": "DOWNLOAD MY CV"
+    "about-btndownload-cv": "DOWNLOAD MY CV"
   },
   "skills":{
     "skills-title": "Skills",
